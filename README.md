@@ -6,8 +6,8 @@ You will usually find me working on ML projects, and if not, learning backend de
 
 I use PyTorch and Scikit-learn to make my models.
 
-I only have a few repositories, so feel free to look around! My favorite has to be the spinning cube, as I built on top of the concept by containerizing the code.
-You can also look at my journey in learning ML/DL through my journals.
+I only have a few repositories, so feel free to look around! My favorite has to be the [spinning cube](https://github.com/cheeseybiscuits/cube), as I built on top of the concept by containerizing the code.
+You can also look at my journey in learning ML/DL through my [journals](https://github.com/cheeseybiscuits/Google-Colab-ML-DL-PyTorch-Journal).
 
 Fun Facts about me:
 - I LOVE Minecraft. It's my favorite game of all time, and I have a gallery of all my projects in my build-gallery repository
