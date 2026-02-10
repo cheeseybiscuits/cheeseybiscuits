@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Abie (pronounced Ay-bee), a learning developer in ML/DL and aspiring software engineer.
+I'm [Abie](https://www.linkedin.com/in/abie-luo-6b278932a/) (pronounced Ay-bee), a learning developer in ML/DL and aspiring software engineer.
 
 You will usually find me working on ML projects, and if not, learning backend development in the meantime.
 
