@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hey there 👋
+
+I'm Abie (pronounced Ay-bee), a learning developer in ML/DL and aspiring software engineer.
+
+You will usually find me working on ML projects, and if not, learning backend development in the meantime.
+
+I use PyTorch and Scikit-learn to make my models.
+
+I only have a few repositories, so feel free to look around! My favorite has to be the spinning cube, as I built on top of the concept by containerizing the code.
+You can also look at my journey in learning ML/DL through my journals.
+
+Fun Facts about me:
+- I LOVE Minecraft. It's my favorite game of all time, and I have a gallery of all my projects in my build-gallery repository
+- I have 2 cats
+- I have many small hobbies:
+  - Art
+  - Music
+  - Juggling
+  - Reading
 
 <!--
 **cheeseybiscuits/cheeseybiscuits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
