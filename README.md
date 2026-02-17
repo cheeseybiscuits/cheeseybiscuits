@@ -10,7 +10,7 @@ I only have a few repositories, so feel free to look around! My favorite has to 
 You can also look at my journey in learning ML/DL through my [journals](https://github.com/cheeseybiscuits/Google-Colab-ML-DL-PyTorch-Journal).
 
 Fun Facts about me:
-- I LOVE Minecraft. It's my favorite game of all time, and I have a gallery of all my projects in my build-gallery repository
+- I LOVE Minecraft. It's my favorite game of all time, and I (will) have a gallery of all my projects in my build-gallery repository
 - I have 2 cats
 - I have many small hobbies:
   - Art
